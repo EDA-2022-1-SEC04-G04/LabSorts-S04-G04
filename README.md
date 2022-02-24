@@ -28,3 +28,8 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
+Nombre de los integrantes del grupo 04:
+
+Javier Garcia - jr.garciab@uniandes.edu.co - 201922294
+
+Daniel Lozano - j.lozanom@uniandes.edu.co - 201911107
